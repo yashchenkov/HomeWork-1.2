@@ -1,0 +1,10 @@
+#подкаталог tmp
+tmp/
+
+#файлы Thumbs.db и .DS_Store
+Thumbs.db
+.DS_Store
+
+#файлы,  заканчивающиеся суффиксами _old, _backup
+*_old
+*_backup
